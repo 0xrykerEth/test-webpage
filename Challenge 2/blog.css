@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  border: solid;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+button {
+  background-color: black;
+  color: antiquewhite;
+}
+.free {
+  color: rgb(184, 174, 174);
+}
+
+.more {
+  color: black;
+}
+a:hover {
+  color: purple;
+}
+button:hover {
+  background-color: brown;
+}
+li {
+  margin: 20px;
+}
